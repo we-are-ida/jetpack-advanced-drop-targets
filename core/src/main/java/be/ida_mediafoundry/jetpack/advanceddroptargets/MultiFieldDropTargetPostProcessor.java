@@ -1,4 +1,4 @@
-package be.ida-mediafoundry.jetpack.advanceddroptargets;
+package be.ida_mediafoundry.jetpack.advanceddroptargets;
 
 import com.google.common.collect.Iterators;
 import org.apache.commons.lang3.StringUtils;
