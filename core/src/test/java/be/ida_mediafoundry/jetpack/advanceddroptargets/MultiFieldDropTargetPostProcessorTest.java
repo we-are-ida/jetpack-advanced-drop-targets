@@ -1,7 +1,7 @@
-package be.ida.jetpack.advanceddroptargets;
+package be.ida_mediafoundry.jetpack.advanceddroptargets;
 
-import be.ida.jetpack.advanceddroptargets.helper.MockRequestParameter;
-import be.ida.jetpack.advanceddroptargets.helper.MockRequestParameterMap;
+import be.ida_mediafoundry.jetpack.advanceddroptargets.helper.MockRequestParameter;
+import be.ida_mediafoundry.jetpack.advanceddroptargets.helper.MockRequestParameterMap;
 import io.wcm.testing.mock.aem.junit.AemContext;
 import org.apache.sling.api.SlingHttpServletRequest;
 import org.apache.sling.api.request.RequestParameter;

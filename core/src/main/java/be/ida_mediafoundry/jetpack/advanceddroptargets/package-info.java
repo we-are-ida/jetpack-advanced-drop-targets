@@ -14,6 +14,6 @@
  *  limitations under the License.
  */
 @Version("1.0")
-package be.ida.jetpack.advanceddroptargets;
+package be.ida_mediafoundry.jetpack.advanceddroptargets;
 
 import org.osgi.annotation.versioning.Version;

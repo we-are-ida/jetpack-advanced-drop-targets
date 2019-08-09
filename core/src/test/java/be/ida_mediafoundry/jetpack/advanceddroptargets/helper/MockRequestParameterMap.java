@@ -1,4 +1,4 @@
-package be.ida.jetpack.advanceddroptargets.helper;
+package be.ida_mediafoundry.jetpack.advanceddroptargets.helper;
 
 import org.apache.sling.api.request.RequestParameter;
 import org.apache.sling.api.request.RequestParameterMap;
