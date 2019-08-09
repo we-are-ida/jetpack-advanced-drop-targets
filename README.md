@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ida-mediafoundry/jetpack-advanced-drop-targets.svg?branch=master)](https://travis-ci.org/ida-mediafoundry/jetpack-advanced-drop-targets)[![codecov](https://codecov.io/gh/ida-mediafoundry/jetpack-advanced-drop-targets/branch/master/graph/badge.svg)](https://codecov.io/gh/ida-mediafoundry/jetpack-advanced-drop-targets)
+[![Build Status](https://travis-ci.org/ida-mediafoundry/jetpack-advanced-drop-targets.svg?branch=master)](https://travis-ci.org/ida-mediafoundry/jetpack-advanced-drop-targets) [![codecov](https://codecov.io/gh/ida-mediafoundry/jetpack-advanced-drop-targets/branch/master/graph/badge.svg)](https://codecov.io/gh/ida-mediafoundry/jetpack-advanced-drop-targets)
 # Jetpack - Advanced Drop Target
 (powered by iDA Mediafoundry)
 
